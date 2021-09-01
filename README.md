@@ -1,5 +1,7 @@
 # pagina-inicial-instagram-css-flexbox-dio
 
+Author: [Robinson Dias](https://github.com/robinson-1985)
+
 ## HTML WEB DEVELOPER
 
 - Olá, tudo bem? Sejam bem vindos ao curso de HTML WEB DEVELOPER da Digital Innovation One. 

@@ -14,4 +14,3 @@
 Os requisitos são:
 HTML básico
 CSS básico
-![Let's code! rocket](https://br.pinterest.com/pin/413557178284446700/)
